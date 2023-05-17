@@ -1,3 +1,5 @@
+# arxivの学問領域の指定
+subject: 'astro-ph'
 keywords:
         circumplanetary disk: 1
         protostellar: 1
