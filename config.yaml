@@ -20,6 +20,7 @@ keywords:
         planetary formation: 1
         radio interferometry: 1
         sparse modeling: 1
+        regularized maximum likelihood: 1
         protostar: 1
         SETI: 1
         Herbig Ae: 1
@@ -31,6 +32,6 @@ keywords:
         young star: 1
         Regularized  Maximum  Likelihood: 1
         dust trapping: 1
-       
+        pebble accretion: 1
 # 通知の閾値
 score_threshold: 0
