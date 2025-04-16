@@ -29,8 +29,12 @@ keywords:
         snowline: 1
         UX Ori type: 1
         FU Ori: 1
+        EX Ors: 1
+        EX Lup: 1
         young star: 1
         dust trapping: 1
         pebble accretion: 1
+        secular gravitational instability: 1
+        ash flow: 1
 # 通知の閾値
 score_threshold: 0
