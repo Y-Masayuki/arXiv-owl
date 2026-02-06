@@ -17,7 +17,6 @@ keywords:
         transition disk: 1
         transition disc: 1
         planet formation: 1
-        planetary formation: 1
         radio interferometry: 1
         sparse modeling: 1
         regularized maximum likelihood: 1
@@ -25,12 +24,10 @@ keywords:
         SETI: 1
         Herbig Ae: 1
         Herbig Ae/Be: 1
-        photo-evaporation: 1
-        snowline: 1
         UX Ori type: 1
         FU Ori: 1
         EX Ors: 1
-        EX Lup: 1
+        EX Lupi: 1
         young star: 1
         dust trapping: 1
         pebble accretion: 1
