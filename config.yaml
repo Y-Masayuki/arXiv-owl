@@ -33,5 +33,6 @@ keywords:
         pebble accretion: 1
         secular gravitational instability: 1
         ash flow: 1
+        streamer: 1
 # 通知の閾値
 score_threshold: 0
